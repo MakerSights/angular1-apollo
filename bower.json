@@ -1,0 +1,18 @@
+{
+  "name": "angular1-apollo",
+  "description": "Angular 1.0 client for Apollo",
+  "main": "build/index.js",
+  "authors": [
+    "Kamil Kisiela <kamil.kisiela@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MakerSights/angular1-apollo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
